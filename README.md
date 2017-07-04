@@ -1,5 +1,6 @@
 # Elm-API-freshdesk-example
-#### "elm-version": "0.18.0 <= v < 0.19.0"
+"elm-version": "0.18.0 <= v < 0.19.0"
+
 Ejemplo para conectar con API de freshdesk y poder obtener los Tickets 
 
 <img src="/imgSistema.png" alt="freshdesk"/>
